@@ -1,2 +1,3 @@
 ## Regression Analysis on Insurance Pricing 
 
+This is a sample work of a real business problem I faced at work. The business problem is to find relationships between external factors and premium pricing for car insurance. This will help us understand some of the important features affecting the premium prices and more accurately determine appropriate prices for our insurance products. I have used both linear regression and support vector regression to predict prices. 
